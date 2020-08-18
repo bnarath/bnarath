@@ -8,4 +8,6 @@ I believe that we all can bridge the impossible to possible and can make a huge 
 
 ![](https://github-readme-stats.vercel.app/api?username=bnarath&hide=contribs&show_icons=true&theme=gruvbox)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnarath)](https://github.com/bnarath/github-readme-stats)
+
 
