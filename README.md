@@ -8,7 +8,8 @@ I have  2+ years of machine learning and data science experience coupled with 4
 I believe that we all can bridge the impossible to possible and can make a huge difference in lives through technology.  While I enjoy mathematics and building things, I also love challenging myself from time to time, be it a technology change or an adventurous skydive. Life is all about embracing the change and enjoy the process for me!
 </div>
 <a href="https://github-readme-stats.vercel.app/api?username=bnarath&hide=contribs&show_icons=true&theme=synthwave&layout=compact">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=bnarath&hide=contribs&show_icons=true&theme=synthwave&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=bnarath&hide=contribs&show_icons=true&theme=synthwave&layout=compact" 
+       style={{ width: 100, float: 'right' }}/>
 </a>
 
 
