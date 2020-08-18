@@ -9,7 +9,7 @@ I believe that we all can bridge the impossible to possible and can make a huge 
 
 
 <a href="https://github-readme-stats.vercel.app/api?username=bnarath&hide=contribs&show_icons=true&theme=synthwave&layout=compact">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=bnarath&hide=contribs&show_icons=true&theme=synthwave&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bnarath&hide=contribs&show_icons=true&theme=synthwave&layout=compact" />
 </a>
 
 
