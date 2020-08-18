@@ -1,3 +1,5 @@
+# html
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={https://github.com/bnarath}" alt="Hits" />
 # Hello !!
 
 <p>
