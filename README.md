@@ -8,8 +8,8 @@ I believe that we all can bridge the impossible to possible and can make a huge 
 
 
 
-<a href="https://github.com/bnarath">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=bnarath" />
+<a href="https://github-readme-stats.vercel.app/api?username=bnarath&hide=contribs&show_icons=true&theme=synthwave&layout=compact">
+  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=bnarath&hide=contribs&show_icons=true&theme=synthwave&layout=compact" />
 </a>
 
 
