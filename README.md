@@ -1,5 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbnarath)](https://hits.seeyoufarm.com)
-
 # Hello !!
 
 <p>
@@ -18,6 +16,7 @@ I believe that we all can bridge the impossible to possible and can make a huge 
 Thanks :heart:
 </p>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbnarath%2Fhit-counter)](https://hits.seeyoufarm.com)
 
 
 
