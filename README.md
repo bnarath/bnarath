@@ -2,11 +2,6 @@
 
 <p>
 
-<a href="https://github-readme-stats.vercel.app/api?username=bnarath&hide=contribs&show_icons=true&theme=synthwave&layout=compact">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=bnarath&hide=contribs&show_icons=true&theme=synthwave&layout=compact" 
-       style={{ width: 100, float: 'right' }}/>
-</a>
-
 I am Bincy Narath, a Data Scientist by profession, passionate about solving complex real-world problems. I believe in the huge potential of  Machine Learning, DeepLearning, NLP, and AI and want to build meaningful products that can MAKE an IMPACT. Though the power of machine learning is domain-independent, knowing various domains and technologies would help to reach our end goals faster! I am experienced in developing machine learning solutions for finance, engineering, and customer service sectors.
 
 I have  3+ years of machine learning and data science experience coupled with 4 years of engineering domain expertise in Telecom, Networking, Cloud and Virtualisation  Technologies. The prior experience helped me with strong engineering, programming and design thinking skills to get an end-to-end solution to the problems. I believe that machine learning is a superpower, and if it is used wisely, along with the domain expertise, we can derive meaningful insights and develop outstanding products.
