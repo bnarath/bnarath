@@ -1,16 +1,16 @@
-# Hello !!
+# Hey there !!
 
 <p>
 
-I am Bincy Narath, a Data Scientist by profession, passionate about solving complex real-world problems. I believe in the huge potential of  Machine Learning, DeepLearning, NLP, and AI and want to build meaningful products that can MAKE an IMPACT. Though the power of machine learning is domain-independent, knowing various domains and technologies would help to reach our end goals faster! I am experienced in developing machine learning solutions for finance, engineering, and customer service sectors.
+I’m Bincy Narath, a Data Scientist / Machine Learning Engineer with experience in developing and deploying machine learning and deep learning solutions. My work spans areas like Recommender Systems, Graph Neural Networks, NLP, and Generative AI, with a focus on translating research into practical applications.
 
-I have  3+ years of machine learning and data science experience coupled with 4 years of engineering domain expertise in Telecom, Networking, Cloud and Virtualisation  Technologies. The prior experience helped me with strong engineering, programming and design thinking skills to get an end-to-end solution to the problems. I believe that machine learning is a superpower, and if it is used wisely, along with the domain expertise, we can derive meaningful insights and develop outstanding products.
+My interest in mathematics, algorithms, and problem-solving drives me to balance technical understanding with real-world usability. Bringing a product from inception to production is a rewarding process, and continuous optimization remains a key challenge I enjoy tackling. I strive to maintain this balance between research and engineering in my work.
 
-I believe that we all can bridge the impossible to possible and can make a huge difference in lives through technology.  While I enjoy mathematics and building things, I also love challenging myself from time to time, be it a technology change or an adventurous skydive. Life is all about embracing the change and enjoying the process for me!
+Before entering the ML field, I gained experience in Telecom, Networking, and Cloud Infrastructure, which helped me develop strong engineering, programming, and design-thinking skills for end-to-end problem-solving. I believe AI and machine learning are essential tools for bridging the gap between the impossible and the possible, with the potential to make a significant impact on society.
 
-Thanks :heart:
+Beyond my professional interests, I enjoy fitness, yoga, and boxing. For me, life is all about embracing change and enjoying the process!
+
+Thanks for stopping by! :heart:
 </p>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbnarath%2Fhit-counter)](https://hits.seeyoufarm.com)
-
-
