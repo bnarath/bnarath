@@ -12,5 +12,3 @@ Beyond my professional interests, I enjoy fitness, yoga, and boxing. For me, lif
 
 Thanks for stopping by! :heart:
 </p>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbnarath%2Fhit-counter)](https://hits.seeyoufarm.com)
